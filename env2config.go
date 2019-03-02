@@ -1,7 +1,7 @@
 package env2config
 
 import (
-	"github.com/caarlos0/env"
+	"github.com/acatec/env"
 	"github.com/joho/godotenv"
 	"log"
 )
